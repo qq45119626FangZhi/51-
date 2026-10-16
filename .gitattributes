@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# 把 .py 文件强制算作 C 语言
+*.py linguist-language=C
